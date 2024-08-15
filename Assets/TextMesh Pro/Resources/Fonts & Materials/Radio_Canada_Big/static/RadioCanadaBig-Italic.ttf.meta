@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: c84f97736b03ed2439c00d01549f6bc0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Radio Canada Big
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 41d8d7a452d8504449d6575d6f64a60d, type: 3}
+  - {fileID: 12800000, guid: 6273487197131524b9c78a32833ad8df, type: 3}
+  - {fileID: 12800000, guid: 642673a5cf91be34abe3000d49fdc9b1, type: 3}
+  - {fileID: 12800000, guid: 50988635cbbab5049a9623d92e29240b, type: 3}
+  - {fileID: 12800000, guid: 22308ccfe26aa1942bc45407c7bcac83, type: 3}
+  - {fileID: 12800000, guid: 475d55a161a9c1149b0f02db2aff8c2f, type: 3}
+  - {fileID: 12800000, guid: 41dc814ca696f1045bcd0da262beceec, type: 3}
+  - {fileID: 12800000, guid: 432f095fd9a6da74b85e7a1632bef816, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

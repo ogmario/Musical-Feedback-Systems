@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/Others/Song.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 0
+    path: Assets/Scenes/Others/Density SingleTrack.unity
+    guid: 89d8cef5beaacc3419b01968803c552a
+  - enabled: 0
+    path: Assets/Scenes/Dynamic Loops/Dynamic Loops.unity
+    guid: 2e66d30ecc3dc374a9d9051f97cf87d2
+  - enabled: 0
+    path: Assets/Scenes/AudioFX Counter/AudioFX Counter.unity
+    guid: 9e70e8d8660964940802433ff98ba9f4
+  - enabled: 0
+    path: Assets/Scenes/AudioFX Counter/Calibrate.unity
+    guid: a00d50165b62f6944b2f6740a75b4510
+  - enabled: 0
+    path: Assets/Scenes/Others/Density Vector Sign.unity
+    guid: 01f79a5fc26ca74419c9bda361c19c10
+  - enabled: 1
+    path: Assets/Scenes/Orientation Sampler/Define Positions.unity
+    guid: 3732ffb7c51757b4da482a068f327400
+  - enabled: 1
+    path: Assets/Scenes/Orientation Sampler/Orientation Sampler.unity
+    guid: 6ac50020f25d0954b9dedef923fe0f7d
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: da2ee61da1cc8624dbed379448e538a8, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: f28f739b870e1474abbba0a00b297d68, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: b8b28def3096a8a42af7a9a1bda78f03, type: 2}
